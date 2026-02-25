@@ -46,6 +46,8 @@ Modelo dimensional basado en **Star Schema**, optimizado para consultas OLAP.
 
 El diseño permite análisis temporales, segmentación, agregaciones y comparaciones entre períodos con buen rendimiento.
 
+![Star Schema](docs/star%20schema/Star%20Schema.png)
+
 ---
 
 ## Proceso ETL 
@@ -89,6 +91,8 @@ Dashboard desarrollado en **Power BI**, conectado directamente al Data Warehouse
 - Tendencias temporales  
 - Rankings y segmentaciones  
 - Filtros dinámicos por fecha y dimensiones clave  
+
+![Dashboard Preview](docs/dashboard/Dashboard%20PowerBI.png)
 
 ---
 
