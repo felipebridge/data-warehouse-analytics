@@ -92,7 +92,7 @@ Dashboard desarrollado en **Power BI**, conectado directamente al Data Warehouse
 - Rankings y segmentaciones  
 - Filtros dinámicos por fecha y dimensiones clave  
 
-![Dashboard Preview](docs/dashboard/Dashboard%20PowerBI.png)
+![Dashboard Preview](docs/dashboard/Dashboard%20BI.png)
 
 ---
 
