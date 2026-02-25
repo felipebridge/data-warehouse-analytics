@@ -46,7 +46,7 @@ Modelo dimensional basado en **Star Schema**, optimizado para consultas OLAP.
 
 El diseño permite análisis temporales, segmentación, agregaciones y comparaciones entre períodos con buen rendimiento.
 
-![Star Schema](docs/star%20schema/Star%20Schema.png)
+![Star Schema](docs/star%20schema/Star%20Schema%20.png)
 
 ---
 
